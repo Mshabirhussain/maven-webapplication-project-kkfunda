@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 KK DEVOPS Hello to KK FUNDA DevSecOps AWS Portal NEW BATCH STARTS ON JUNE 28 7:30 PM IST DEMO 🚀</h1>
+    <h1>🚀 WELCOME TO KK DEVOPS ONLINE TRAINING🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
