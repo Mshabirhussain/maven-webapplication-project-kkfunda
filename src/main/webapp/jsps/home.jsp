@@ -47,7 +47,7 @@
 <body>
 
 <header>
-    <h1>🚀 WELCOME TO KK DEVOPS ONLINE TRAINING KK BATCH ON JUNE 28 2026 7:30 PM IST In PROD using SCM</h1>
+    <h1>🚀 Welcome to MSH AWS and GCP traning centre using SCM</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
