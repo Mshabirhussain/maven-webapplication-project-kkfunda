@@ -47,7 +47,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to MSH AWS and GCP traning centre using SCM 7:30 PM</h1>
+    <h1>🚀 Welcome to MSH AWS and GCP traning centre using SCM 7:30 PM with declarative</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
